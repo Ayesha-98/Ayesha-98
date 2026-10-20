@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300" role="img" aria-label="Bug life cycle: the detective cat is at the Retest stage">
+  <style>
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes halo { 0%,100% { opacity: .35; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.12); } }
+    @keyframes core { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+    @keyframes flow { to { stroke-dashoffset: -36; } }
+    @keyframes flowdone { to { stroke-dashoffset: -30; } }
+    @keyframes shadow { 0%,100% { transform: scaleX(1); opacity: .5; } 50% { transform: scaleX(.85); opacity: .3; } }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    @keyframes look { 0%,40%,100% { transform: translateX(0); } 50%,80% { transform: translateX(2.5px); } }
+    @keyframes tail { 0%,100% { transform: rotate(0); } 50% { transform: rotate(14deg); } }
+    @keyframes lens { 0%,100% { transform: rotate(-8deg); } 50% { transform: rotate(10deg); } }
+    @keyframes bar { from { transform: scaleX(0); } }
+    @keyframes sweep { from { transform: translateX(-300px); } to { transform: translateX(1700px); } }
+    @keyframes dots { 0%,20% { opacity: 0; } 40%,100% { opacity: 1; } }
+    @keyframes cur { 50% { opacity: 0; } }
+    @keyframes packet { 0% { transform: translateX(0); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(var(--span)); opacity: 0; } }
+
+    .halo { transform-box: fill-box; transform-origin: 50% 50%; animation: halo 2.2s ease-in-out infinite; }
+    .spin { transform-box: fill-box; transform-origin: 50% 50%; animation: spin 4s linear infinite; }
+    .core { animation: core 1s ease-in-out infinite; }
+    .ahead { stroke-dasharray: 2 16; animation: flow 1.6s linear infinite; }
+    .done-flow { stroke-dasharray: 2 14; animation: flowdone 1.6s linear infinite; }
+    .packet { animation: packet 3.4s ease-in-out infinite; }
+    .shadow { transform-box: fill-box; transform-origin: 50% 50%; animation: shadow 2.6s ease-in-out infinite; }
+    .bar { transform-box: fill-box; transform-origin: 0 50%; animation: bar 1.6s cubic-bezier(.2,.7,.2,1) both; }
+    .sweep { animation: sweep 6s ease-in-out infinite; }
+    .d1 { animation: dots 1.2s infinite; } .d2 { animation: dots 1.2s .2s infinite; } .d3 { animation: dots 1.2s .4s infinite; }
+    .cur { animation: cur 1s step-end infinite; }
+
+    /* detective cat */
+    .k-tail-outline { fill: none; stroke: #62aaff; stroke-opacity: .6; stroke-width: 9; stroke-linecap: round; }
+    .k-tail-fill { fill: none; stroke: #121212; stroke-width: 6.5; stroke-linecap: round; }
+    .k-body { fill: #121212; stroke: #62aaff; stroke-opacity: .6; stroke-width: 1.2; }
+    .k-coat { fill: #FF7036; }
+    .k-belt { fill: none; stroke: #101c2f; stroke-width: 3.2; }
+    .k-buckle { fill: #F7F9F7; }
+    .k-face { fill: #D8A978; }
+    .k-collar { fill: #F7F9F7; }
+    .k-iris { fill: #62aaff; }
+    .k-pupil { fill: #101c2f; transform-box: fill-box; transform-origin: 50% 50%; animation: blink 4.2s infinite; }
+    .k-glint { fill: #fff; }
+    .k-nose { fill: #FF7036; }
+    .k-mouth { fill: none; stroke: #FF7036; stroke-width: 1.8; stroke-linecap: round; }
+    .k-whiskers { fill: none; stroke: #FF7036; stroke-width: 1.1; stroke-linecap: round; }
+    .k-hat-shade { fill: #cfe6ff; }
+    .k-hat { fill: #F7F9F7; }
+    .k-hat-band { fill: #FF7036; }
+    .k-lens-handle { stroke: #cfe6ff; stroke-width: 4; stroke-linecap: round; }
+    .k-lens-glass { fill: #62aaff; fill-opacity: .14; stroke: #cfe6ff; stroke-width: 3; }
+    .k-lens-shine { fill: none; stroke: #fff; stroke-opacity: .7; stroke-width: 2; stroke-linecap: round; }
+    .k-paw { fill: #121212; stroke: #62aaff; stroke-opacity: .6; stroke-width: 1.2; }
+    .k-bobg { animation: bob 2.6s ease-in-out infinite; }
+    .k-eyes { animation: look 6s ease-in-out infinite; }
+    .k-tailg { transform-origin: 12px 90px; animation: tail 1.8s ease-in-out infinite; }
+    .k-lensg { transform-origin: 84px 94px; animation: lens 2.4s ease-in-out infinite; }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .packet { display: none; } }
+  </style>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1b2e"/><stop offset="1" stop-color="#0a1322"/></linearGradient>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".045"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+    <clipPath id="frame"><rect x="20" y="10" width="1560" height="280" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="20" y="10" width="1560" height="280" fill="url(#card)"/>
+    <rect x="20" y="10" width="1560" height="280" fill="url(#grid)"/>
+    <rect class="sweep" x="0" y="10" width="260" height="280" fill="url(#sh)"/>
+  </g>
+  <rect x="20.5" y="10.5" width="1559" height="279" rx="26" fill="none" stroke="#fff" stroke-opacity=".08"/>
+
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
+    <!-- header -->
+    <circle class="core" cx="62" cy="48" r="6" fill="#FF7036"/>
+    <text x="78" y="54" font-size="17"><tspan fill="#cfe6ff">@playwright/test</tspan><tspan fill="#61759a" dx="14">· run .spec.js</tspan></text>
+    <text x="800" y="54" text-anchor="middle" font-size="16" fill="#8196b5"><tspan fill="#FF7036">$</tspan> npx playwright test<tspan class="cur" fill="#FF7036"> ▍</tspan></text>
+    <rect x="1240" y="30" width="150" height="34" rx="17" fill="#FF7036" fill-opacity=".12" stroke="#FF7036" stroke-opacity=".55"/>
+    <text x="1299" y="53" text-anchor="middle" font-size="15" font-weight="700" fill="#FF7036">RUNNING</text>
+    <g fill="#FF7036" font-size="15" font-weight="700"><text class="d1" x="1338" y="53">.</text><text class="d2" x="1346" y="53">.</text><text class="d3" x="1354" y="53">.</text></g>
+    <text x="1548" y="54" text-anchor="end" font-size="15" fill="#61759a">1m 55s</text>
+
+    <!-- progress -->
+    <rect x="62" y="76" width="1476" height="4" rx="2" fill="#fff" fill-opacity=".06"/>
+    <rect class="bar" x="62" y="76" width="1011" height="4" rx="2" fill="#FF7036"/>
+
+    <!-- track, nodes, labels -->
+    <line x1="190.0" y1="220" x2="1410.0" y2="220" stroke="#18273f" stroke-width="8" stroke-linecap="round"/><line x1="190.0" y1="220" x2="1003.3" y2="220" stroke="#62aaff" stroke-width="4" stroke-linecap="round"/><line class="done-flow" x1="190.0" y1="220" x2="1003.3" y2="220" stroke="#cfe6ff" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/><line class="ahead" x1="1003.3" y1="220" x2="1410.0" y2="220" stroke="#6f86a8" stroke-width="3" stroke-linecap="round"/><g class="packet" style="--span:406.7px"><circle cx="1003.3" cy="220" r="11" fill="#62aaff" fill-opacity=".28"/><circle cx="1003.3" cy="220" r="4.5" fill="#cfe6ff"/></g>
+    <circle cx="190.0" cy="220" r="14" fill="#62aaff" stroke="#62aaff" stroke-width="2.5"/><path d="M184.0 220 l4 4.5 l8 -9" fill="none" stroke="#101c2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(190.0 176)" fill="none" stroke="#cfe6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -10 L2.8 -2.8 L10 0 L2.8 2.8 L0 10 L-2.8 2.8 L-10 0 L-2.8 -2.8 Z"/></g><circle cx="393.3" cy="220" r="14" fill="#62aaff" stroke="#62aaff" stroke-width="2.5"/><path d="M387.3 220 l4 4.5 l8 -9" fill="none" stroke="#101c2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(393.3 176)" fill="none" stroke="#cfe6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="-4.5" r="4"/><path d="M-9 9 q0 -8.5 9 -8.5 q9 0 9 8.5"/></g><circle cx="596.7" cy="220" r="14" fill="#62aaff" stroke="#62aaff" stroke-width="2.5"/><path d="M590.7 220 l4 4.5 l8 -9" fill="none" stroke="#101c2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(596.7 176)" fill="none" stroke="#cfe6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle r="9"/><circle r="2.6" fill="#cfe6ff"/></g><circle cx="800.0" cy="220" r="14" fill="#62aaff" stroke="#62aaff" stroke-width="2.5"/><path d="M794.0 220 l4 4.5 l8 -9" fill="none" stroke="#101c2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(800.0 176)" fill="none" stroke="#cfe6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-4 -6 l-6 6 l6 6 M4 -6 l6 6 l-6 6 M1.5 -8 l-3 16"/></g><circle class="halo" cx="1003.3" cy="220" r="30" fill="#FF7036" fill-opacity=".16"/><circle class="spin" cx="1003.3" cy="220" r="24" fill="none" stroke="#FF7036" stroke-width="2" stroke-dasharray="10 8"/><circle cx="1003.3" cy="220" r="17" fill="#1a0f08" stroke="#FF7036" stroke-width="3"/><circle class="core" cx="1003.3" cy="220" r="5" fill="#FF7036"/><circle cx="1206.7" cy="220" r="14" fill="#0a1322" stroke="#32486a" stroke-width="2.5"/><g transform="translate(1206.7 176)" fill="none" stroke="#61759a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -10 L9 -6 V1 Q9 8 0 11 Q-9 8 -9 1 V-6 Z"/><path d="M-4 1 l3 3 l6 -7"/></g><circle cx="1410.0" cy="220" r="14" fill="#0a1322" stroke="#32486a" stroke-width="2.5"/><g transform="translate(1410.0 176)" fill="none" stroke="#61759a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle r="9"/><path d="M-4.5 0.5 l3.5 3.5 l6.5 -7.5"/></g>
+    <text x="190.0" y="270" text-anchor="middle" font-size="16" font-weight="600" fill="#cfe6ff">New</text><text x="393.3" y="270" text-anchor="middle" font-size="16" font-weight="600" fill="#cfe6ff">Assigned</text><text x="596.7" y="270" text-anchor="middle" font-size="16" font-weight="600" fill="#cfe6ff">Open</text><text x="800.0" y="270" text-anchor="middle" font-size="16" font-weight="600" fill="#cfe6ff">Fixed</text><text x="1003.3" y="270" text-anchor="middle" font-size="16" font-weight="700" fill="#FF7036">Retest</text><text x="1206.7" y="270" text-anchor="middle" font-size="16" font-weight="500" fill="#61759a">Verified</text><text x="1410.0" y="270" text-anchor="middle" font-size="16" font-weight="500" fill="#61759a">Closed</text>
+  </g>
+  
+<g transform="translate(961.5 92.5) scale(0.95)">
+  <g class="k-bobg">
+    <g class="k-tailg">
+      <path class="k-tail-outline" d="M12 90 q-26 0 -21 -30"/>
+      <path class="k-tail-fill" d="M12 90 q-26 0 -21 -30"/>
+    </g>
+    <path class="k-body" d="M10 32 L14 6 Q15 2 19 4 L33 15 Q44 12 55 15 L69 4 Q73 2 74 6 L78 32 Q84 46 81 62 Q78 92 44 98 Q10 92 7 62 Q4 46 10 32 Z"/>
+    <path class="k-coat" d="M13 76 Q44 90 75 76 L82 106 Q44 116 6 106 Z"/>
+    <path class="k-belt" d="M9 98 Q44 108 79 98"/>
+    <rect class="k-buckle" x="41" y="100" width="6" height="5" rx="1.5"/>
+    <path class="k-face" d="M16 50 Q16 35 31 35 Q44 38 57 35 Q72 35 72 50 Q72 77 44 78 Q16 77 16 50 Z"/>
+    <path class="k-collar" d="M28 79 L40 94 L44 82 Z M60 79 L48 94 L44 82 Z"/>
+    <ellipse class="k-iris" cx="32" cy="54" rx="7.5" ry="9.5"/>
+    <ellipse class="k-iris" cx="56" cy="54" rx="7.5" ry="9.5"/>
+    <g class="k-eyes">
+      <ellipse class="k-pupil" cx="33" cy="55" rx="3.6" ry="4.8"/>
+      <ellipse class="k-pupil" cx="57" cy="55" rx="3.6" ry="4.8"/>
+    </g>
+    <circle class="k-glint" cx="34" cy="52" r="1.4"/>
+    <circle class="k-glint" cx="58" cy="52" r="1.4"/>
+    <ellipse class="k-nose" cx="44" cy="64" rx="3" ry="2"/>
+    <path class="k-mouth" d="M40 68 Q44 71 48 68"/>
+    <path class="k-whiskers" d="M24 66 L10 63  M24 70 L11 73  M64 66 L78 63  M64 70 L77 73"/>
+    <ellipse class="k-hat-shade" cx="44" cy="30" rx="28" ry="5.5"/>
+    <ellipse class="k-hat" cx="44" cy="27.5" rx="28" ry="5.5"/>
+    <path class="k-hat" d="M31 27 Q30 8 44 8 Q58 8 57 27 Z"/>
+    <path class="k-hat-band" d="M31 22.5 Q44 27 57 22.5 L57.2 27 Q44 31 30.8 27 Z"/>
+    <g class="k-lensg">
+      <line class="k-lens-handle" x1="90" y1="98" x2="101" y2="109"/>
+      <circle class="k-lens-glass" cx="82" cy="90" r="11"/>
+      <path class="k-lens-shine" d="M75 86 q3 -5 8 -5"/>
+      <ellipse class="k-paw" cx="88" cy="99" rx="5" ry="4"/>
+    </g>
+  </g>
+</g>
+<ellipse class="shadow" cx="1003.3" cy="201" rx="34" ry="5" fill="#000" fill-opacity=".5"/>
+
+</svg>

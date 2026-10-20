@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-label="Dev pets story: the bear builds a feature, the detective dog finds a bug and sends a report, the bear fixes it, the dog retests, and the koala deploys" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozOTg3YzhhZi0zM2VlLTRhMGQtOGQwNS1mNTlhNDQwNzRlYTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFyLKBJDGJWdPgDhB5kjSLwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2MjQyMzhlNy02YTNjLTRkYzItOWVmMC1iMjI0MWFiMTRiOWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoZl9hWgTIZNlROCsb95mbkgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4ihulvhF8mLA/a6PAVvibMQgrWGRv5kKhSrKQ+AMNTCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJSKDlhZZQ2GLPq+nIf8T4EAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIN7OPplUtoT+0tU0PdAx6VonhUDnj1rVDTcnWIBgf2HJZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQFHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjM5ODdjOGFmLTMzZWUtNGEwZC04ZDA1LWY1OWE0NDA3NGVhNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQzNDAzNDA3LTQyMTAtNDNhOS04OWU1LTgzZmQ3ODA2ZTMxMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDiKG6W+EXyYsD9ro8BW+JsxCCtYZG/mQqFKspD4Aw1MKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggkFug/4AoUus5SWEqAoM3ye3x0FHzWaOqxz/yA7UE58iiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrxuwU0TIU1BQZEPjECLKQeQuZxLM5gk3jsE6ocZsRwZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJJHDx1iCXJvG/cU1p91auHvEc8vHB+GFUk3G/zhXk6P/ItaAOHrDYJ00/+vWRiFbUwGLA1pOM9AzF8lcXZ++fY=</c2pa:manifest></metadata>
+
+  <!--
+  ================================================================
+   THE STORY  (one 24-second loop, the end flows back into the start)
+
+     0-4s     BUILD    bear types, progress bar fills, build passes, "time for a coffee"
+     4-8s     TEST     dog walks to the bear's screen, scans it, a red bug pops out: "BUG FOUND!"
+     8-12s    FIX      bug report card flies dog -> bear, bear is surprised and fixes it, bug poofs
+     12-15s   RETEST   dog retests, checklist passes: "Fix verified. Regression passed!"
+     15-17.4s RELEASE  dog walks ALL THE WAY to the koala
+     17.4-22s          dog hands over a QA APPROVED card, koala wakes, waves, presses DEPLOY: 200 OK
+                       bear cheers back at the desk
+     22-24s            koala falls asleep again, dog trots home, screen clears, bear starts a new feature
+
+   WHAT CHANGED IN THIS VERSION  (search for "CHANGED")
+   1. Dog now walks all the way to the koala and they interact (card handover, wave, DEPLOY)
+   2. Loop is 24s instead of 18s so there is time for that walk
+   3. Removed the footer line ("3 teammates . 1 mission ...")
+   4. Removed the code line "bug.detected() > report.created()"
+   5. Removed the leaves on the log so the dog has room next to the koala
+  ================================================================
+  -->
+
+  <style>
+    :root { --cycle: 24s; }
+
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+
+    /* workflow chips (top right) light up with the current scene */
+    .pill      { color: #5f7391; }
+    .pill-box  { fill: currentColor; fill-opacity: .10; stroke: currentColor; stroke-opacity: .6; stroke-width: 1.5; }
+    .pill-text { fill: currentColor; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-anchor: middle; }
+
+    /* ---------- small always-on loops ---------- */
+    @keyframes nod     { 0%,100% { transform: translateY(0) rotate(-2deg); } 50% { transform: translateY(-3px) rotate(2deg); } }
+    @keyframes tapL    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes tapR    { 0%,100% { transform: translateY(-5px); } 50% { transform: translateY(0); } }
+    @keyframes wag     { 0%,100% { transform: rotate(-16deg); } 50% { transform: rotate(14deg); } }
+    @keyframes buzz    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+    @keyframes flutter { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.25); } }
+    @keyframes breathe { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.05); } }
+    @keyframes zz      { 0% { opacity: 0; transform: translate(0,0) scale(.6); } 30% { opacity: 1; } 100% { opacity: 0; transform: translate(-22px,-52px) scale(1.15); } }
+    @keyframes twinkle { 0%,100% { opacity: .2; } 50% { opacity: .9; } }
+    .bearHead { transform-box: fill-box; transform-origin: 50% 100%; animation: nod 2.4s ease-in-out infinite; }
+    .pawL { animation: tapL .3s ease-in-out infinite; }
+    .pawR { animation: tapR .3s ease-in-out infinite; }
+    .wag  { transform-box: fill-box; transform-origin: 100% 100%; animation: wag .5s ease-in-out infinite; }
+    .bugB { animation: buzz .28s ease-in-out infinite; }
+    .wing { transform-box: fill-box; transform-origin: 50% 100%; animation: flutter .1s linear infinite; }
+    .koala{ transform-box: fill-box; transform-origin: 50% 100%; animation: breathe 3s ease-in-out infinite; }
+    .z1 { animation: zz 3s ease-out infinite; } .z2 { animation: zz 3s ease-out 1s infinite; } .z3 { animation: zz 3s ease-out 2s infinite; }
+    .t1 { animation: twinkle 3s ease-in-out infinite; } .t2 { animation: twinkle 4s ease-in-out 1s infinite; } .t3 { animation: twinkle 5s ease-in-out 2s infinite; }
+
+    /* ---------- origins for the story animations ---------- */
+    .dogFace  { transform-origin: 53px 40px; }
+    .progress { transform-origin: 136px 83px; }
+    .poof     { transform-box: fill-box; transform-origin: 50% 50%; }
+    .legA, .legB { transform-box: fill-box; transform-origin: 50% 0; }
+    .pager    { transform-box: fill-box; transform-origin: 50% 50%; }
+    .ear      { transform-box: fill-box; transform-origin: 50% 80%; }
+
+    /* ---------- the story timeline (generated from the seconds in the storyboard) ---------- */
+    @keyframes a-bb1 { 0%{opacity:0}12.92%{opacity:0}13.75%{opacity:1}24.17%{opacity:1}25%{opacity:0}100%{opacity:0} }
+    @keyframes a-db1 { 0%{opacity:0}25%{opacity:0}25.83%{opacity:1}34.17%{opacity:1}35%{opacity:0}100%{opacity:0} }
+    @keyframes a-bb2 { 0%{opacity:0}38.75%{opacity:0}39.58%{opacity:1}49.17%{opacity:1}50%{opacity:0}100%{opacity:0} }
+    @keyframes a-db2 { 0%{opacity:0}54.17%{opacity:0}55%{opacity:1}62.5%{opacity:1}63.33%{opacity:0}100%{opacity:0} }
+    @keyframes a-kb { 0%{opacity:0}76.67%{opacity:0}77.5%{opacity:1}86.67%{opacity:1}87.5%{opacity:0}100%{opacity:0} }
+    @keyframes a-steam { 0%{opacity:0}12.92%{opacity:0}13.75%{opacity:1}33.33%{opacity:1}34.17%{opacity:0}100%{opacity:0} }
+    @keyframes a-surprise { 0%{opacity:0}37.5%{opacity:0}38.33%{opacity:1}43.33%{opacity:1}44.17%{opacity:0}100%{opacity:0} }
+    @keyframes a-cheer { 0%{opacity:0}84.17%{opacity:0}85%{opacity:1}93.33%{opacity:1}94.17%{opacity:0}100%{opacity:0} }
+    @keyframes a-l1 { 0%{opacity:0}0.42%{opacity:0}1.25%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-l2 { 0%{opacity:0}2.92%{opacity:0}3.75%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-l3 { 0%{opacity:0}5.42%{opacity:0}6.25%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-hl { 0%{opacity:0}24.17%{opacity:0}25%{opacity:1}45%{opacity:1}45.83%{opacity:0}100%{opacity:0} }
+    @keyframes a-ok1 { 0%{opacity:0}12.5%{opacity:0}13.33%{opacity:1}25%{opacity:1}25.83%{opacity:0}100%{opacity:0} }
+    @keyframes a-bad { 0%{opacity:0}24.17%{opacity:0}25%{opacity:1}45%{opacity:1}45.83%{opacity:0}100%{opacity:0} }
+    @keyframes a-scrbug { 0%{opacity:0}24.17%{opacity:0}25%{opacity:1}27.08%{opacity:1}27.92%{opacity:0}100%{opacity:0} }
+    @keyframes a-okc { 0%{opacity:0}49.17%{opacity:0}50%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-c1 { 0%{opacity:0}50.42%{opacity:0}51.25%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-c2 { 0%{opacity:0}52.5%{opacity:0}53.33%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-c3 { 0%{opacity:0}54.58%{opacity:0}55.42%{opacity:1}93.75%{opacity:1}94.58%{opacity:0}100%{opacity:0} }
+    @keyframes a-cOpen { 0%{opacity:0}33.33%{opacity:0}34.17%{opacity:1}45%{opacity:1}45.83%{opacity:0}100%{opacity:0} }
+    @keyframes a-cFixed { 0%{opacity:0}44.58%{opacity:0}45.42%{opacity:1}56.25%{opacity:1}57.08%{opacity:0}100%{opacity:0} }
+    @keyframes a-cVer { 0%{opacity:0}55.83%{opacity:0}56.67%{opacity:1}92.5%{opacity:1}93.33%{opacity:0}100%{opacity:0} }
+    @keyframes a-dogcheck { 0%{opacity:0}85%{opacity:0}85.83%{opacity:1}91.67%{opacity:1}92.5%{opacity:0}100%{opacity:0} }
+    @keyframes a-kbadge { 0%{opacity:0}33.33%{opacity:0}34.17%{opacity:1}52.08%{opacity:1}52.92%{opacity:0}100%{opacity:0} }
+    @keyframes a-wake { 0%{opacity:0}74.17%{opacity:0}75%{opacity:1}92.5%{opacity:1}93.33%{opacity:0}100%{opacity:0} }
+    @keyframes a-wave { 0%{opacity:0}73.33%{opacity:0}74.17%{opacity:1}79.17%{opacity:1}80%{opacity:0}100%{opacity:0} }
+    @keyframes a-ready { 0%{opacity:0}76.67%{opacity:0}77.5%{opacity:1}91.67%{opacity:1}92.5%{opacity:0}100%{opacity:0} }
+    @keyframes a-ok200 { 0%{opacity:0}83.33%{opacity:0}84.17%{opacity:1}91.67%{opacity:1}92.5%{opacity:0}100%{opacity:0} }
+    @keyframes a-p0 { 0%{color:#62aaff}16.25%{color:#62aaff}16.67%{color:#5f7391}100%{color:#5f7391} }
+    @keyframes a-p1 { 0%{color:#5f7391}16.25%{color:#5f7391}16.67%{color:#62aaff}32.92%{color:#62aaff}33.33%{color:#5f7391}100%{color:#5f7391} }
+    @keyframes a-p2 { 0%{color:#5f7391}32.92%{color:#5f7391}33.33%{color:#62aaff}49.58%{color:#62aaff}50%{color:#5f7391}100%{color:#5f7391} }
+    @keyframes a-p3 { 0%{color:#5f7391}49.58%{color:#5f7391}50%{color:#62aaff}62.08%{color:#62aaff}62.5%{color:#5f7391}100%{color:#5f7391} }
+    @keyframes a-p4 { 0%{color:#5f7391}62.08%{color:#5f7391}62.5%{color:#62aaff}100%{color:#62aaff} }
+    @keyframes dogX { 0%{transform:translateX(250px)}16.67%{transform:translateX(250px)}23.33%{transform:translateX(0px)}62.5%{transform:translateX(0px)}72.5%{transform:translateX(540px)}90%{transform:translateX(540px)}99.17%{transform:translateX(250px)}100%{transform:translateX(250px)} }
+    @keyframes dogFace { 0%{transform:scaleX(-1)}62.08%{transform:scaleX(-1)}62.5%{transform:scaleX(1)}89.17%{transform:scaleX(1)}89.58%{transform:scaleX(-1)}100%{transform:scaleX(-1)} }
+    @keyframes legA { 0%{transform:rotate(0)}16.62%{transform:rotate(0)}16.67%{transform:rotate(24deg)}17.5%{transform:rotate(-24deg)}18.33%{transform:rotate(24deg)}19.17%{transform:rotate(-24deg)}20%{transform:rotate(24deg)}20.83%{transform:rotate(-24deg)}21.67%{transform:rotate(24deg)}22.5%{transform:rotate(-24deg)}23.38%{transform:rotate(0)}62.46%{transform:rotate(0)}62.5%{transform:rotate(24deg)}63.33%{transform:rotate(-24deg)}64.17%{transform:rotate(24deg)}65%{transform:rotate(-24deg)}65.83%{transform:rotate(24deg)}66.67%{transform:rotate(-24deg)}67.5%{transform:rotate(24deg)}68.33%{transform:rotate(-24deg)}69.17%{transform:rotate(24deg)}70%{transform:rotate(-24deg)}70.83%{transform:rotate(24deg)}71.67%{transform:rotate(-24deg)}72.5%{transform:rotate(24deg)}72.54%{transform:rotate(0)}89.96%{transform:rotate(0)}90%{transform:rotate(24deg)}90.83%{transform:rotate(-24deg)}91.67%{transform:rotate(24deg)}92.5%{transform:rotate(-24deg)}93.33%{transform:rotate(24deg)}94.17%{transform:rotate(-24deg)}95%{transform:rotate(24deg)}95.83%{transform:rotate(-24deg)}96.67%{transform:rotate(24deg)}97.5%{transform:rotate(-24deg)}98.33%{transform:rotate(24deg)}99.17%{transform:rotate(-24deg)}99.21%{transform:rotate(0)}100%{transform:rotate(0)} }
+    @keyframes legB { 0%{transform:rotate(0)}16.62%{transform:rotate(0)}16.67%{transform:rotate(-24deg)}17.5%{transform:rotate(24deg)}18.33%{transform:rotate(-24deg)}19.17%{transform:rotate(24deg)}20%{transform:rotate(-24deg)}20.83%{transform:rotate(24deg)}21.67%{transform:rotate(-24deg)}22.5%{transform:rotate(24deg)}23.38%{transform:rotate(0)}62.46%{transform:rotate(0)}62.5%{transform:rotate(-24deg)}63.33%{transform:rotate(24deg)}64.17%{transform:rotate(-24deg)}65%{transform:rotate(24deg)}65.83%{transform:rotate(-24deg)}66.67%{transform:rotate(24deg)}67.5%{transform:rotate(-24deg)}68.33%{transform:rotate(24deg)}69.17%{transform:rotate(-24deg)}70%{transform:rotate(24deg)}70.83%{transform:rotate(-24deg)}71.67%{transform:rotate(24deg)}72.5%{transform:rotate(-24deg)}72.54%{transform:rotate(0)}89.96%{transform:rotate(0)}90%{transform:rotate(-24deg)}90.83%{transform:rotate(24deg)}91.67%{transform:rotate(-24deg)}92.5%{transform:rotate(24deg)}93.33%{transform:rotate(-24deg)}94.17%{transform:rotate(24deg)}95%{transform:rotate(-24deg)}95.83%{transform:rotate(24deg)}96.67%{transform:rotate(-24deg)}97.5%{transform:rotate(24deg)}98.33%{transform:rotate(-24deg)}99.17%{transform:rotate(24deg)}99.21%{transform:rotate(0)}100%{transform:rotate(0)} }
+    @keyframes hop { 0%{transform:translateY(0)}16.62%{transform:translateY(0)}16.67%{transform:translateY(0)}17.5%{transform:translateY(-7px)}18.33%{transform:translateY(0)}19.17%{transform:translateY(-7px)}20%{transform:translateY(0)}20.83%{transform:translateY(-7px)}21.67%{transform:translateY(0)}22.5%{transform:translateY(-7px)}23.38%{transform:translateY(0)}62.46%{transform:translateY(0)}62.5%{transform:translateY(0)}63.33%{transform:translateY(-7px)}64.17%{transform:translateY(0)}65%{transform:translateY(-7px)}65.83%{transform:translateY(0)}66.67%{transform:translateY(-7px)}67.5%{transform:translateY(0)}68.33%{transform:translateY(-7px)}69.17%{transform:translateY(0)}70%{transform:translateY(-7px)}70.83%{transform:translateY(0)}71.67%{transform:translateY(-7px)}72.5%{transform:translateY(0)}72.54%{transform:translateY(0)}89.96%{transform:translateY(0)}90%{transform:translateY(0)}90.83%{transform:translateY(-7px)}91.67%{transform:translateY(0)}92.5%{transform:translateY(-7px)}93.33%{transform:translateY(0)}94.17%{transform:translateY(-7px)}95%{transform:translateY(0)}95.83%{transform:translateY(-7px)}96.67%{transform:translateY(0)}97.5%{transform:translateY(-7px)}98.33%{transform:translateY(0)}99.17%{transform:translateY(-7px)}99.21%{transform:translateY(0)}100%{transform:translateY(0)} }
+    @keyframes lens { 0%{transform:translate(0px,0px)}23.33%{transform:translate(0px,0px)}24.58%{transform:translate(14px,-28px)}27.08%{transform:translate(26px,-28px)}29.58%{transform:translate(14px,-28px)}32.08%{transform:translate(26px,-28px)}35%{transform:translate(14px,-28px)}36.25%{transform:translate(0px,0px)}48.33%{transform:translate(0px,0px)}49.58%{transform:translate(14px,-28px)}51.67%{transform:translate(30px,-28px)}53.75%{transform:translate(14px,-28px)}55.42%{transform:translate(30px,-28px)}56.67%{transform:translate(0px,0px)}100%{transform:translate(0px,0px)} }
+    @keyframes cardFly { 0%{opacity:0;transform:translate(200px,60px)}33.75%{opacity:0;transform:translate(200px,60px)}34.17%{opacity:1;transform:translate(200px,60px)}39.17%{opacity:1;transform:translate(0,0)}92.5%{opacity:1;transform:translate(0,0)}93.75%{opacity:0;transform:translate(0,0)}94.17%{opacity:0;transform:translate(200px,60px)}100%{opacity:0;transform:translate(200px,60px)} }
+    @keyframes apprFly { 0%{opacity:0;transform:translate(-51px,66px)}72.5%{opacity:0;transform:translate(-51px,66px)}72.92%{opacity:1;transform:translate(-51px,66px)}76.25%{opacity:1;transform:translate(0,0)}91.67%{opacity:1;transform:translate(0,0)}92.92%{opacity:0;transform:translate(0,0)}93.33%{opacity:0;transform:translate(-51px,66px)}100%{opacity:0;transform:translate(-51px,66px)} }
+    @keyframes bugFly { 0%{opacity:0;transform:translate(246px,50px) scale(0.3)}26.25%{opacity:0;transform:translate(246px,50px) scale(0.3)}27.08%{opacity:1;transform:translate(246px,40px) scale(0.6)}29.17%{opacity:1;transform:translate(250px,10px) scale(0.9)}31.67%{opacity:1;transform:translate(200px,-24px) scale(0.9)}34.17%{opacity:1;transform:translate(260px,-30px) scale(0.9)}36.67%{opacity:1;transform:translate(210px,-14px) scale(0.9)}39.17%{opacity:1;transform:translate(250px,-34px) scale(0.9)}41.67%{opacity:1;transform:translate(215px,-22px) scale(0.9)}44.58%{opacity:1;transform:translate(230px,-26px) scale(0.9)}45.42%{opacity:0;transform:translate(230px,-26px) scale(1.5)}100%{opacity:0;transform:translate(246px,50px) scale(0.3)} }
+    @keyframes poof { 0%{opacity:0;transform:scale(.3)}45%{opacity:0;transform:scale(.3)}45.42%{opacity:1;transform:scale(.6)}47.5%{opacity:0;transform:scale(1.8)}100%{opacity:0;transform:scale(1.8)} }
+    @keyframes progress { 0%{opacity:1;transform:scaleX(0)}1.67%{opacity:1;transform:scaleX(0)}13.33%{opacity:1;transform:scaleX(1)}93.75%{opacity:1;transform:scaleX(1)}94.17%{opacity:0;transform:scaleX(1)}94.58%{opacity:0;transform:scaleX(0)}100%{opacity:1;transform:scaleX(0)} }
+    @keyframes codeView { 0%{opacity:1}47.08%{opacity:1}47.5%{opacity:0}94.17%{opacity:0}94.58%{opacity:1}100%{opacity:1} }
+    @keyframes bearHop { 0%{transform:translateY(0)}85%{transform:translateY(0)}86.25%{transform:translateY(-12px)}87.5%{transform:translateY(0)}88.75%{transform:translateY(-12px)}90%{transform:translateY(0)}91.25%{transform:translateY(-12px)}92.5%{transform:translateY(0)}100%{transform:translateY(0)} }
+    @keyframes closed { 0%{opacity:1}74.58%{opacity:1}75%{opacity:0}92.5%{opacity:0}92.92%{opacity:1}100%{opacity:1} }
+    @keyframes pager { 0%{transform:rotate(0)}34.17%{transform:rotate(0)}35.21%{transform:rotate(-12deg)}36.25%{transform:rotate(12deg)}37.29%{transform:rotate(-12deg)}38.33%{transform:rotate(12deg)}39.38%{transform:rotate(-12deg)}40.42%{transform:rotate(12deg)}41.46%{transform:rotate(-12deg)}42.5%{transform:rotate(12deg)}43.33%{transform:rotate(0)}100%{transform:rotate(0)} }
+    @keyframes ear { 0%{transform:rotate(0)}35%{transform:rotate(0)}35.83%{transform:rotate(18deg)}37.08%{transform:rotate(0)}38.33%{transform:rotate(18deg)}39.58%{transform:rotate(0)}100%{transform:rotate(0)} }
+    @keyframes press { 0%{opacity:0;transform:translate(-8px,-6px)}79.17%{opacity:0;transform:translate(-8px,-6px)}80%{opacity:1;transform:translate(-8px,-6px)}82.92%{opacity:1;transform:translate(14px,2px)}84.17%{opacity:1;transform:translate(14px,2px)}85.83%{opacity:1;transform:translate(-8px,-6px)}86.67%{opacity:0;transform:translate(-8px,-6px)}100%{opacity:0;transform:translate(-8px,-6px)} }
+    @keyframes btn { 0%{transform:translateY(0)}82.5%{transform:translateY(0)}83.12%{transform:translateY(3px)}84.17%{transform:translateY(0)}100%{transform:translateY(0)} }
+    .a-bb1 { opacity: 0; animation: a-bb1 var(--cycle) linear infinite; }
+    .a-db1 { opacity: 0; animation: a-db1 var(--cycle) linear infinite; }
+    .a-bb2 { opacity: 0; animation: a-bb2 var(--cycle) linear infinite; }
+    .a-db2 { opacity: 0; animation: a-db2 var(--cycle) linear infinite; }
+    .a-kb { opacity: 0; animation: a-kb var(--cycle) linear infinite; }
+    .a-steam { opacity: 0; animation: a-steam var(--cycle) linear infinite; }
+    .a-surprise { opacity: 0; animation: a-surprise var(--cycle) linear infinite; }
+    .a-cheer { opacity: 0; animation: a-cheer var(--cycle) linear infinite; }
+    .a-l1 { opacity: 0; animation: a-l1 var(--cycle) linear infinite; }
+    .a-l2 { opacity: 0; animation: a-l2 var(--cycle) linear infinite; }
+    .a-l3 { opacity: 0; animation: a-l3 var(--cycle) linear infinite; }
+    .a-hl { opacity: 0; animation: a-hl var(--cycle) linear infinite; }
+    .a-ok1 { opacity: 0; animation: a-ok1 var(--cycle) linear infinite; }
+    .a-bad { opacity: 0; animation: a-bad var(--cycle) linear infinite; }
+    .a-scrbug { opacity: 0; animation: a-scrbug var(--cycle) linear infinite; }
+    .a-okc { opacity: 0; animation: a-okc var(--cycle) linear infinite; }
+    .a-c1 { opacity: 0; animation: a-c1 var(--cycle) linear infinite; }
+    .a-c2 { opacity: 0; animation: a-c2 var(--cycle) linear infinite; }
+    .a-c3 { opacity: 0; animation: a-c3 var(--cycle) linear infinite; }
+    .a-cOpen { opacity: 0; animation: a-cOpen var(--cycle) linear infinite; }
+    .a-cFixed { opacity: 0; animation: a-cFixed var(--cycle) linear infinite; }
+    .a-cVer { opacity: 0; animation: a-cVer var(--cycle) linear infinite; }
+    .a-dogcheck { opacity: 0; animation: a-dogcheck var(--cycle) linear infinite; }
+    .a-kbadge { opacity: 0; animation: a-kbadge var(--cycle) linear infinite; }
+    .a-wake { opacity: 0; animation: a-wake var(--cycle) linear infinite; }
+    .a-wave { opacity: 0; animation: a-wave var(--cycle) linear infinite; }
+    .a-ready { opacity: 0; animation: a-ready var(--cycle) linear infinite; }
+    .a-ok200 { opacity: 0; animation: a-ok200 var(--cycle) linear infinite; }
+    .a-p0 { animation: a-p0 var(--cycle) linear infinite; }
+    .a-p1 { animation: a-p1 var(--cycle) linear infinite; }
+    .a-p2 { animation: a-p2 var(--cycle) linear infinite; }
+    .a-p3 { animation: a-p3 var(--cycle) linear infinite; }
+    .a-p4 { animation: a-p4 var(--cycle) linear infinite; }
+    .dogX { animation: dogX var(--cycle) ease-in-out infinite; }
+    .dogFace { animation: dogFace var(--cycle) linear infinite; }
+    .legA { animation: legA var(--cycle) linear infinite; }
+    .legB { animation: legB var(--cycle) linear infinite; }
+    .run { animation: hop var(--cycle) linear infinite; }
+    .lens { animation: lens var(--cycle) ease-in-out infinite; }
+    .cardFly { animation: cardFly var(--cycle) ease-in-out infinite; }
+    .apprFly { animation: apprFly var(--cycle) ease-in-out infinite; }
+    .bugFly { animation: bugFly var(--cycle) ease-in-out infinite; }
+    .poof { animation: poof var(--cycle) ease-out infinite; }
+    .progress { animation: progress var(--cycle) linear infinite; }
+    .codeView { animation: codeView var(--cycle) linear infinite; }
+    .bearHop { animation: bearHop var(--cycle) ease-in-out infinite; }
+    .closed { animation: closed var(--cycle) linear infinite; }
+    .pager { animation: pager var(--cycle) ease-in-out infinite; }
+    .ear { animation: ear var(--cycle) ease-in-out infinite; }
+    .press { animation: press var(--cycle) ease-in-out infinite; }
+    .btn { animation: btn var(--cycle) linear infinite; }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07090f"/><stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF7036" stop-opacity="0"/><stop offset=".5" stop-color="#FF7036" stop-opacity=".6"/><stop offset="1" stop-color="#FF7036" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1600" height="480" rx="36"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="480" fill="url(#bg)"/>
+    <g fill="#fff">
+      <circle class="t1" cx="560" cy="60" r="2"/><circle class="t2" cx="930" cy="90" r="1.6"/>
+      <circle class="t3" cx="1180" cy="52" r="2"/><circle class="t1" cx="1420" cy="96" r="1.6"/><circle class="t2" cx="760" cy="150" r="1.4"/>
+    </g>
+
+    <!-- title -->
+    <text class="mono" x="80" y="78" font-size="20" fill="#FF7036" letter-spacing="6">// THE TEAM BEHIND THE QUALITY</text>
+    <text class="sans" x="78" y="128" font-size="38" font-weight="800" fill="#fff" letter-spacing="-1">Built by devs. Verified by QA. Ready for release.</text>
+    <text class="mono" x="80" y="160" font-size="16" fill="#8196b5">A little code, a little detective work, and no bugs left unreported.</text>
+
+    <!-- CHANGED: chips now match the 5 scenes -->
+    <g class="pill a-p0"><rect class="pill-box" x="1118" y="56" width="74" height="30" rx="15"/><text class="pill-text mono" x="1155" y="76">BUILD</text></g>
+    <g class="pill a-p1"><rect class="pill-box" x="1204" y="56" width="65" height="30" rx="15"/><text class="pill-text mono" x="1236" y="76">TEST</text></g>
+    <g class="pill a-p2"><rect class="pill-box" x="1281" y="56" width="56" height="30" rx="15"/><text class="pill-text mono" x="1309" y="76">FIX</text></g>
+    <g class="pill a-p3"><rect class="pill-box" x="1349" y="56" width="83" height="30" rx="15"/><text class="pill-text mono" x="1390" y="76">RETEST</text></g>
+    <g class="pill a-p4"><rect class="pill-box" x="1444" y="56" width="92" height="30" rx="15"/><text class="pill-text mono" x="1490" y="76">RELEASE</text></g>
+    <!-- floor -->
+    <rect x="0" y="398" width="1600" height="2" fill="url(#floor)"/>
+
+
+    <!-- ============================================================
+         BEAR - the developer (left)
+         ============================================================ -->
+    <g transform="translate(230 278)">
+
+      <!-- desk (CHANGED: longer, to hold the monitor) -->
+      <rect x="-90" y="102" width="380" height="12" rx="4" fill="#2a3346"/>
+      <rect x="-76" y="114" width="10" height="14" fill="#2a3346"/>
+      <rect x="266" y="114" width="10" height="14" fill="#2a3346"/>
+
+      <!-- coffee mug + steam (steam shows while he relaxes) -->
+      <rect x="-84" y="84" width="16" height="18" rx="3" fill="#cfe6ff"/>
+      <path d="M-68 89 q8 0 8 6 q0 6 -8 6" fill="none" stroke="#cfe6ff" stroke-width="3"/>
+      <path class="a-steam" d="M-80 78 q4 -6 0 -12 q-4 -6 0 -12 M-72 78 q4 -6 0 -12 q-4 -6 0 -12" fill="none" stroke="#cfe6ff" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+
+      <!-- CHANGED: the feature he is building, shown on a monitor -->
+      <rect x="122" y="12" width="156" height="84" rx="8" fill="#1b2232" stroke="#62aaff" stroke-opacity=".7" stroke-width="1.5"/>
+      <rect x="194" y="96" width="12" height="6" fill="#2a3346"/>
+      <rect x="172" y="100" width="56" height="3" rx="1.5" fill="#2a3346"/>
+      <circle cx="134" cy="22" r="2.2" fill="#5f7391"/><circle cx="143" cy="22" r="2.2" fill="#5f7391"/><circle cx="152" cy="22" r="2.2" fill="#5f7391"/>
+
+      <!-- screen view 1: code + progress bar + status icon -->
+      <g class="codeView">
+        <rect class="a-hl" x="132" y="44" width="136" height="12" rx="3" fill="#ff5f57" fill-opacity=".25"/>
+        <rect class="a-l1" x="136" y="34" width="70" height="5" rx="2.5" fill="#62aaff"/>
+        <rect class="a-l2" x="136" y="48" width="96" height="5" rx="2.5" fill="#cfe6ff" fill-opacity=".8"/>
+        <rect class="a-l3" x="136" y="62" width="58" height="5" rx="2.5" fill="#62aaff"/>
+        <rect x="136" y="80" width="128" height="6" rx="3" fill="#fff" fill-opacity=".08"/>
+        <rect class="progress" x="136" y="80" width="128" height="6" rx="3" fill="#62aaff"/>
+        <g class="a-ok1"><circle cx="262" cy="22" r="8" fill="#62aaff"/><path d="M258 22 l3 3 l5 -6" fill="none" stroke="#101c2f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+        <g class="a-bad"><circle cx="262" cy="22" r="8" fill="#ff5f57"/><text class="mono" x="262" y="27" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">!</text></g>
+        <g class="a-scrbug"><g transform="translate(250 51) scale(.5)"><ellipse cx="0" cy="0" rx="13" ry="10" fill="#ff5f57"/><circle cx="13" cy="-2" r="6.5" fill="#0b0f18"/><path d="M-4 -8 V8 M-9 -6 V6" stroke="#0b0f18" stroke-width="1.6" stroke-opacity=".5"/><path class="wing" d="M-6 -7 Q0 -24 6 -7 Z" fill="#fff" fill-opacity=".75"/><path d="M16 -7 L22 -15 M16 -4 L24 -8" stroke="#0b0f18" stroke-width="1.6"/></g></g>
+      </g>
+
+      <!-- screen view 2: regression checklist (12-15s) -->
+      <g class="a-okc"><circle cx="262" cy="22" r="8" fill="#62aaff"/><path d="M258 22 l3 3 l5 -6" fill="none" stroke="#101c2f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text class="mono" x="160" y="25" font-size="8" fill="#8196b5">regression</text></g>
+      <g class="a-c1"><rect x="136" y="32" width="10" height="10" rx="2" fill="#62aaff" fill-opacity=".25" stroke="#62aaff"/><path d="M138 37 l2 2 l4 -5" fill="none" stroke="#cfe6ff" stroke-width="1.6"/><text class="mono" x="152" y="41" font-size="10" fill="#cfe6ff">login</text></g>
+      <g class="a-c2"><rect x="136" y="48" width="10" height="10" rx="2" fill="#62aaff" fill-opacity=".25" stroke="#62aaff"/><path d="M138 53 l2 2 l4 -5" fill="none" stroke="#cfe6ff" stroke-width="1.6"/><text class="mono" x="152" y="57" font-size="10" fill="#cfe6ff">checkout</text></g>
+      <g class="a-c3"><rect x="136" y="64" width="10" height="10" rx="2" fill="#62aaff" fill-opacity=".25" stroke="#62aaff"/><path d="M138 69 l2 2 l4 -5" fill="none" stroke="#cfe6ff" stroke-width="1.6"/><text class="mono" x="152" y="73" font-size="10" fill="#cfe6ff">search</text></g>
+
+      <!-- CHANGED: the bug pops out of the screen, circles, poofs when fixed -->
+      <g class="bugFly"><g class="bugB"><ellipse cx="0" cy="0" rx="13" ry="10" fill="#ff5f57"/><circle cx="13" cy="-2" r="6.5" fill="#0b0f18"/><path d="M-4 -8 V8 M-9 -6 V6" stroke="#0b0f18" stroke-width="1.6" stroke-opacity=".5"/><path class="wing" d="M-6 -7 Q0 -24 6 -7 Z" fill="#fff" fill-opacity=".75"/><path d="M16 -7 L22 -15 M16 -4 L24 -8" stroke="#0b0f18" stroke-width="1.6"/></g></g>
+      <g transform="translate(230 -26)"><circle class="poof" r="20" fill="none" stroke="#ff5f57" stroke-width="3" opacity="0"/></g>
+
+      <!-- the bear himself (hops when he celebrates) -->
+      <g class="bearHop">
+        <ellipse cx="-10" cy="74" rx="46" ry="36" fill="#8b5e3c"/>
+        <ellipse cx="-10" cy="82" rx="26" ry="24" fill="#c9a27e"/>
+
+        <g class="bearHead">
+          <circle cx="-34" cy="4" r="10" fill="#8b5e3c"/><circle cx="-34" cy="4" r="5" fill="#c9a27e"/>
+          <circle cx="14"  cy="4" r="10" fill="#8b5e3c"/><circle cx="14"  cy="4" r="5" fill="#c9a27e"/>
+          <circle cx="-10" cy="28" r="28" fill="#8b5e3c"/>
+          <ellipse cx="-10" cy="38" rx="14" ry="11" fill="#d8b48a"/>
+          <ellipse cx="-10" cy="33" rx="5.5" ry="4" fill="#2b1d14"/>
+          <path d="M-10 37 v4 M-10 41 q-5 4 -9 0 M-10 41 q5 4 9 0" fill="none" stroke="#2b1d14" stroke-width="1.8" stroke-linecap="round"/>
+          <circle cx="-22" cy="24" r="3.4" fill="#0b0f18"/><circle cx="2" cy="24" r="3.4" fill="#0b0f18"/>
+          <circle cx="-21" cy="23" r="1.1" fill="#fff"/><circle cx="3" cy="23" r="1.1" fill="#fff"/>
+          <circle cx="-22" cy="24" r="8" fill="none" stroke="#cfe6ff" stroke-width="1.8"/>
+          <circle cx="2"   cy="24" r="8" fill="none" stroke="#cfe6ff" stroke-width="1.8"/>
+          <path d="M-14 24 h8" stroke="#cfe6ff" stroke-width="1.8"/>
+          <!-- CHANGED: surprised eyes when the report card arrives -->
+          <g class="a-surprise">
+            <circle cx="-22" cy="24" r="7" fill="#fff"/><circle cx="2" cy="24" r="7" fill="#fff"/>
+            <circle cx="-22" cy="24" r="2.2" fill="#0b0f18"/><circle cx="2" cy="24" r="2.2" fill="#0b0f18"/>
+          </g>
+        </g>
+
+        <!-- laptop (lid faces us) -->
+        <rect x="-52" y="58" width="84" height="46" rx="5" fill="#1b2232" stroke="#62aaff" stroke-opacity=".7" stroke-width="1.5"/>
+        <circle cx="-10" cy="80" r="7" fill="#62aaff" fill-opacity=".9"/>
+        <rect x="-60" y="102" width="100" height="5" rx="2" fill="#2a3346"/>
+        <ellipse class="pawL" cx="-32" cy="98" rx="10" ry="7" fill="#8b5e3c"/>
+        <ellipse class="pawR" cx="12"  cy="98" rx="10" ry="7" fill="#8b5e3c"/>
+
+        <!-- CHANGED: arms up when the release succeeds -->
+        <g class="a-cheer">
+          <ellipse cx="-46" cy="44" rx="8" ry="16" fill="#8b5e3c" transform="rotate(-25 -46 44)"/>
+          <ellipse cx="26"  cy="44" rx="8" ry="16" fill="#8b5e3c" transform="rotate(25 26 44)"/>
+        </g>
+      </g>
+
+      <!-- CHANGED: bear speech (2 lines only) -->
+      <g class="a-bb1"><rect x="-110" y="-76" width="309" height="34" rx="12" fill="#fff" /><path d="M-50 -42 L-36 -24 L-20 -42 Z" fill="#fff" /><text class="mono" x="44" y="-54" text-anchor="middle" font-size="14" fill="#0b0f18">Build passed. Time for a coffee.</text></g>
+      <g class="a-bb2"><rect x="-110" y="-76" width="208" height="34" rx="12" fill="#fff" /><path d="M-50 -42 L-36 -24 L-20 -42 Z" fill="#fff" /><text class="mono" x="-6" y="-54" text-anchor="middle" font-size="14" fill="#0b0f18">Oops. Fixing it now!</text></g>
+
+      <text class="mono" x="10" y="150" text-anchor="middle" font-size="15" fill="#8196b5">dev.bear · builds the feature</text>
+    </g>
+
+
+    <!-- ============================================================
+         DOG - the QA engineer (walks to the bear's screen)
+         ============================================================ -->
+    <g transform="translate(517 318)">
+      <g class="dogX">
+        <g class="dogFace"><g class="run">
+          <rect class="legA" x="10" y="58" width="9" height="22" rx="4" fill="#b87a3d"/>
+          <rect class="legB" x="24" y="58" width="9" height="22" rx="4" fill="#d99a5b"/>
+          <rect class="legB" x="50" y="58" width="9" height="22" rx="4" fill="#b87a3d"/>
+          <rect class="legA" x="62" y="58" width="9" height="22" rx="4" fill="#d99a5b"/>
+          <path class="wag" d="M-6 36 Q-34 28 -30 2" fill="none" stroke="#c98a4b" stroke-width="9" stroke-linecap="round"/>
+          <ellipse cx="34" cy="44" rx="44" ry="22" fill="#d99a5b"/>
+          <path d="M-6 38 Q34 24 76 38 L72 64 Q34 72 -2 64 Z" fill="#FF7036"/>
+          <path d="M-2 56 Q34 64 72 56" fill="none" stroke="#101c2f" stroke-width="3"/>
+          <rect x="31" y="58" width="6" height="5" rx="1.5" fill="#F7F9F7"/>
+          <path d="M60 38 L70 54 L76 38 Z" fill="#F7F9F7"/>
+          <circle cx="86" cy="30" r="22" fill="#e0b07a"/>
+          <ellipse cx="68" cy="38" rx="8" ry="15" fill="#8a5a2e" transform="rotate(15 68 38)"/>
+          <ellipse cx="104" cy="37" rx="13" ry="9" fill="#f0d2ae"/>
+          <circle cx="114" cy="33" r="4.2" fill="#0b0f18"/>
+          <circle cx="94" cy="27" r="3.2" fill="#0b0f18"/><circle cx="95" cy="26" r="1" fill="#fff"/>
+          <path d="M100 42 q6 4 12 0" fill="none" stroke="#0b0f18" stroke-width="1.8" stroke-linecap="round"/>
+          <!-- deerstalker hat -->
+          <path d="M66 16 L52 20 Q58 25 70 22 Z" fill="#8a5f37"/>
+          <path d="M68 17 Q70 -5 88 -5 Q106 -5 106 17 Z" fill="#a9784a"/>
+          <path d="M72 6 H102 M70 12 H104 M80 -3 V16 M94 -3 V16" stroke="#7a5430" stroke-width="1.2" stroke-opacity=".8" fill="none"/>
+          <path d="M100 15 L124 17 Q114 24 100 21 Z" fill="#8a5f37"/>
+          <path d="M82 -6 q6 -8 12 0 q-6 4 -12 0 Z" fill="#8a5f37"/>
+          <!-- magnifying glass (CHANGED: it lifts up and scans the screen) -->
+          <g transform="translate(128 58)"><g class="lens">
+            <line x1="6" y1="6" x2="15" y2="15" stroke="#cfe6ff" stroke-width="3.5" stroke-linecap="round"/>
+            <circle cx="0" cy="0" r="9" fill="#62aaff" fill-opacity=".18" stroke="#cfe6ff" stroke-width="3"/>
+          </g></g>
+        </g></g>
+        <!-- CHANGED: check badge when the dog is happy with the fix -->
+        <g class="a-dogcheck" transform="translate(53 -22)"><circle r="11" fill="#62aaff"/><path d="M-5 0 l4 4 l7 -8" fill="none" stroke="#101c2f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+      </g>
+    </g>
+
+    <!-- CHANGED: dog speech (2 lines only) -->
+    <g class="a-db1"><rect x="486" y="252" width="124" height="34" rx="12" fill="#101c2f" stroke="#62aaff" stroke-opacity=".8"/><rect x="486" y="252" width="124" height="34" rx="12" fill="#62aaff" fill-opacity=".14"/><path d="M530 286 L540 304 L556 286 Z" fill="#17304f" stroke="#62aaff" stroke-opacity=".8"/><rect x="531" y="283" width="24" height="4" fill="#17304f"/><text class="mono" x="548" y="274" text-anchor="middle" font-size="14" fill="#cfe6ff">BUG FOUND!</text></g>
+    <g class="a-db2"><rect x="394" y="252" width="309" height="34" rx="12" fill="#101c2f" stroke="#62aaff" stroke-opacity=".8"/><rect x="394" y="252" width="309" height="34" rx="12" fill="#62aaff" fill-opacity=".14"/><path d="M530 286 L540 304 L556 286 Z" fill="#17304f" stroke="#62aaff" stroke-opacity=".8"/><rect x="531" y="283" width="24" height="4" fill="#17304f"/><text class="mono" x="548" y="274" text-anchor="middle" font-size="14" fill="#cfe6ff">Fix verified. Regression passed!</text></g>
+
+    <!-- label -->
+    <text class="mono" x="700" y="428" text-anchor="middle" font-size="15" fill="#8196b5">qa.dog · breaks things before users do</text>
+
+    <!-- CHANGED: the bug report card travels dog -> bear, then OPEN > FIXED > VERIFIED -->
+    <g transform="translate(320 262)"><g class="cardFly">
+      <g class="a-cOpen"><rect x="-64" y="-13" width="128" height="26" rx="8" fill="#ff5f57" fill-opacity=".2" stroke="#ff5f57"/><text class="mono" x="0" y="4" text-anchor="middle" font-size="12" font-weight="700" fill="#ff9a92">BUG #042 · OPEN</text></g>
+      <g class="a-cFixed"><rect x="-68" y="-13" width="136" height="26" rx="8" fill="#FF7036" fill-opacity=".2" stroke="#FF7036"/><text class="mono" x="0" y="4" text-anchor="middle" font-size="12" font-weight="700" fill="#ffab8a">BUG #042 · FIXED</text></g>
+      <g class="a-cVer"><rect x="-80" y="-13" width="160" height="26" rx="8" fill="#62aaff" fill-opacity=".2" stroke="#62aaff"/><text class="mono" x="0" y="4" text-anchor="middle" font-size="12" font-weight="700" fill="#cfe6ff">BUG #042 · VERIFIED</text></g>
+    </g></g>
+
+
+    <!-- CHANGED: the dog hands a QA APPROVED card to the koala (17.5s to 18.3s) -->
+    <g transform="translate(1222 284)"><g class="apprFly">
+      <rect x="-66" y="-13" width="132" height="26" rx="8" fill="#62aaff" fill-opacity=".22" stroke="#62aaff"/>
+      <text class="mono" x="0" y="4" text-anchor="middle" font-size="12" font-weight="700" fill="#cfe6ff">QA · APPROVED</text>
+    </g></g>
+
+
+    <!-- ============================================================
+         KOALA - supporting role: sleeps, gets the pager alert, receives the card, presses DEPLOY
+         ============================================================ -->
+    <g transform="translate(1330 306)">
+      <ellipse cx="0" cy="92" rx="130" ry="12" fill="#000" fill-opacity=".35"/>
+      <rect x="-120" y="76" width="240" height="16" rx="8" fill="#6b4a33"/>
+      <ellipse cx="120" cy="84" rx="6" ry="8" fill="#8a6446"/>
+      <path d="M-100 80 h30 M40 86 h40" stroke="#4d3524" stroke-width="2" stroke-linecap="round"/>
+
+      <g class="koala">
+        <ellipse cx="0" cy="46" rx="42" ry="34" fill="#9aa3b2"/>
+        <ellipse cx="0" cy="54" rx="26" ry="24" fill="#c9d0da"/>
+        <ellipse cx="-30" cy="76" rx="14" ry="7" fill="#838c9b"/>
+        <ellipse cx="30"  cy="76" rx="14" ry="7" fill="#838c9b"/>
+        <ellipse cx="-42" cy="52" rx="9" ry="16" fill="#9aa3b2"/>
+        <ellipse cx="42"  cy="52" rx="9" ry="16" fill="#9aa3b2"/>
+        <!-- CHANGED: koala waves hello when the dog arrives -->
+        <g class="a-wave"><ellipse cx="-44" cy="28" rx="8" ry="16" fill="#9aa3b2" transform="rotate(-35 -44 28)"/></g>
+        <circle cx="-30" cy="-14" r="15" fill="#9aa3b2"/><circle cx="-30" cy="-14" r="8" fill="#e8cfd6"/>
+        <g class="ear"><circle cx="30" cy="-14" r="15" fill="#9aa3b2"/><circle cx="30" cy="-14" r="8" fill="#e8cfd6"/></g>
+        <circle cx="0" cy="6" r="30" fill="#9aa3b2"/>
+        <circle cx="-20" cy="16" r="5" fill="#e8a8b8" fill-opacity=".5"/><circle cx="20" cy="16" r="5" fill="#e8a8b8" fill-opacity=".5"/>
+        <ellipse cx="0" cy="16" rx="8" ry="12" fill="#2b2f3a"/>
+        <path class="closed" d="M-18 4 q6 5 12 0 M6 4 q6 5 12 0" fill="none" stroke="#2b2f3a" stroke-width="2.5" stroke-linecap="round"/>
+        <g class="a-wake"><circle cx="-12" cy="5" r="4" fill="#2b2f3a"/><circle cx="12" cy="5" r="4" fill="#2b2f3a"/><circle cx="-11" cy="4" r="1.3" fill="#fff"/><circle cx="13" cy="4" r="1.3" fill="#fff"/></g>
+      </g>
+
+      <!-- pager (buzzes when the bug report is sent) -->
+      <g transform="translate(-78 66)"><g class="pager">
+        <rect x="-16" y="-10" width="32" height="20" rx="4" fill="#1b2232" stroke="#ff5f57"/>
+        <rect x="-11" y="-5" width="22" height="7" rx="2" fill="#ff5f57" fill-opacity=".6"/>
+      </g></g>
+      <g class="a-kbadge" transform="translate(-78 40)"><circle r="9" fill="#ff5f57"/><text class="mono" y="5" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">!</text></g>
+
+      <!-- CHANGED: deploy console, koala presses the button at ~16s -->
+      <rect x="52" y="46" width="100" height="34" rx="8" fill="#1b2232" stroke="#62aaff" stroke-opacity=".6"/>
+      <g class="btn"><rect x="60" y="52" width="84" height="22" rx="6" fill="#62aaff" fill-opacity=".25" stroke="#62aaff"/><text class="mono" x="102" y="67" text-anchor="middle" font-size="12" font-weight="700" fill="#cfe6ff">DEPLOY</text></g>
+      <rect class="a-ready" x="56" y="48" width="92" height="30" rx="8" fill="none" stroke="#cfe6ff" stroke-width="2"/>
+      <g class="press"><ellipse cx="62" cy="62" rx="8" ry="6" fill="#9aa3b2"/></g>
+      <g class="a-ok200"><rect x="62" y="12" width="84" height="26" rx="8" fill="#62aaff" fill-opacity=".2" stroke="#62aaff"/><text class="mono" x="104" y="30" text-anchor="middle" font-size="14" font-weight="700" fill="#cfe6ff">200 OK</text></g>
+
+      <!-- zzz while asleep -->
+      <g class="closed"><g class="mono" font-weight="700" fill="#62aaff">
+        <text class="z1" x="-56" y="-4"  font-size="22">z</text>
+        <text class="z2" x="-66" y="-18" font-size="28">z</text>
+        <text class="z3" x="-78" y="-34" font-size="34">Z</text>
+      </g></g>
+
+      <!-- CHANGED: koala speech (1 line) -->
+      <g class="a-kb"><circle cx="-46" cy="-38" r="4" fill="#fff" fill-opacity=".85"/><circle cx="-62" cy="-62" r="6" fill="#fff" fill-opacity=".85"/><circle cx="-88" cy="-92" r="8" fill="#fff" fill-opacity=".85"/><rect x="-226" y="-158" width="216" height="42" rx="21" fill="#fff" fill-opacity=".94"/><text class="mono" x="-118" y="-132" text-anchor="middle" font-size="14" fill="#0b0f18">QA approved? Ship it!</text></g>
+
+      <text class="mono" x="0" y="122" text-anchor="middle" font-size="15" fill="#8196b5">ops.koala · owns the fix</text>
+    </g>
+
+    <rect x="1" y="1" width="1598" height="478" rx="36" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  </g>
+</svg>

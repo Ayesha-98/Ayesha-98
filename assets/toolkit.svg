@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-label="Test toolkit: Manual Testing, Postman, Playwright, Jira">
+  <style>
+    .mono { font-family: 'SFMono-Regular','JetBrains Mono',Consolas,'Courier New',monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1600" height="540" rx="36" fill="#0e1829"/>
+  <rect x="1" y="1" width="1598" height="538" rx="36" fill="none" stroke="#2d4668" stroke-opacity=".6" stroke-width="2"/>
+  <text class="mono" x="84" y="84" font-size="20" fill="#FF7036" letter-spacing="5">TEST TOOLKIT</text>
+  <text class="sans" x="84" y="152" font-size="58" font-weight="800" fill="#e6eefb" letter-spacing="-1.5">The tools I test with</text>
+  
+  <g transform="translate(84,190)"><g style="animation: rise .7s ease-out 0.20s both">
+    <rect width="340" height="270" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><path d="M-14 2 l10 11 l20 -24" stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text class="sans" x="28" y="142" font-size="31" font-weight="800" fill="#e6eefb">Manual Testing</text>
+    <text class="mono" x="28" y="172" font-size="16" fill="#FF7036">test cases · exploratory</text>
+    <text class="sans" x="28" y="212" font-size="18" fill="#8196b5">Use the product like a real person,</text>
+    <text class="sans" x="28" y="238" font-size="18" fill="#8196b5">then write down what broke.</text>
+  </g></g>
+  <g transform="translate(448,190)"><g style="animation: rise .7s ease-out 0.35s both">
+    <rect width="340" height="270" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><path d="M-6 -16 q-10 0 -10 10 v4 q0 6 -6 6 q6 0 6 6 v4 q0 10 10 10 M6 -16 q10 0 10 10 v4 q0 6 6 6 q-6 0 -6 6 v4 q0 10 -10 10" stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text class="sans" x="28" y="142" font-size="31" font-weight="800" fill="#e6eefb">Postman</text>
+    <text class="mono" x="28" y="172" font-size="16" fill="#FF7036">API requests · assertions</text>
+    <text class="sans" x="28" y="212" font-size="18" fill="#8196b5">Check what the server says</text>
+    <text class="sans" x="28" y="238" font-size="18" fill="#8196b5">before the screen shows it.</text>
+  </g></g>
+  <g transform="translate(812,190)"><g style="animation: rise .7s ease-out 0.50s both">
+    <rect width="340" height="270" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><path d="M-9 -16 L17 0 L-9 16 Z" stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text class="sans" x="28" y="142" font-size="31" font-weight="800" fill="#e6eefb">Playwright</text>
+    <text class="mono" x="28" y="172" font-size="16" fill="#FF7036">browser automation</text>
+    <text class="sans" x="28" y="212" font-size="18" fill="#8196b5">Teach a browser to repeat the</text>
+    <text class="sans" x="28" y="238" font-size="18" fill="#8196b5">boring checks, every single time.</text>
+  </g></g>
+  <g transform="translate(1176,190)"><g style="animation: rise .7s ease-out 0.65s both">
+    <rect width="340" height="270" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><path d="M-18 -12 h36 v8 a6 6 0 0 0 0 12 v8 h-36 v-8 a6 6 0 0 0 0 -12 Z M4 -12 v32" stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text class="sans" x="28" y="142" font-size="31" font-weight="800" fill="#e6eefb">Jira</text>
+    <text class="mono" x="28" y="172" font-size="16" fill="#FF7036">bug tracking · workflow</text>
+    <text class="sans" x="28" y="212" font-size="18" fill="#8196b5">Log clear bugs a developer can</text>
+    <text class="sans" x="28" y="238" font-size="18" fill="#8196b5">reproduce on the first try.</text>
+  </g></g>
+  <text class="mono" x="84" y="504" font-size="17" fill="#8196b5">learning in public · this list grows as I do</text>
+</svg>
