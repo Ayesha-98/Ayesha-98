@@ -19,7 +19,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/what-i-do.svg" alt="What I do: web testing, API testing, manual testing and automated testing" />
+  <img width="100%" src="./assets/What i do.svg" alt="What I do: web testing, API testing, manual testing and automated testing" />
 </p>
 
 <p align="center"><img width="100%" alt="Bug life cycle: the detective cat is at Assigned" src="./assets/pipeline-2.svg" /></p>
@@ -39,7 +39,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/projects.svg" alt="Practice projects: SauceDemo test cases, Restful-Booker API tests, first Playwright suite, testing my own projects, bug report gallery, test plan templates" />
+  <img width="100%" src="./assets/Projects.svg" alt="Practice projects: SauceDemo test cases, Restful-Booker API tests, first Playwright suite, testing my own projects, bug report gallery, test plan templates" />
 </p>
 
 <p align="center"><img width="100%" alt="Bug life cycle: the detective cat is at Fixed" src="./assets/pipeline-4.svg" /></p>
@@ -49,7 +49,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/learning.svg" alt="What I'm learning: manual testing basics, SQL, Postman, Playwright, Jira and ISTQB" />
+  <img width="100%" src="./assets/Learning.svg" alt="What I'm learning: manual testing basics, SQL, Postman, Playwright, Jira and ISTQB" />
 </p>
 
 <p align="center"><img width="100%" alt="Bug life cycle: the detective cat is at Retest" src="./assets/pipeline-5.svg" /></p>
