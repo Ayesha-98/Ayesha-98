@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="660" viewBox="0 0 1600 660" role="img" aria-label="What I do: web testing, API testing, manual testing and automated testing">
+  <style>
+    .mono { font-family: 'SFMono-Regular','JetBrains Mono',Consolas,'Courier New',monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    .live { animation: pulse 1.6s ease-in-out infinite; }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1600" height="660" rx="36" fill="#0e1829"/>
+  <rect x="1" y="1" width="1598" height="658" rx="36" fill="none" stroke="#2d4668" stroke-opacity=".6" stroke-width="2"/>
+  <text class="mono" x="84" y="84" font-size="20" fill="#FF7036" letter-spacing="5">ABOUT ME</text>
+  <text class="sans" x="84" y="152" font-size="58" font-weight="800" fill="#e6eefb" letter-spacing="-1.5">What I do</text>
+  <text class="sans" x="84" y="204" font-size="21" fill="#b9c8de">I&#x27;m Ayesha, a BSIT student and software tester in training. I like UI/UX design, so I notice when a screen</text>
+  <text class="sans" x="84" y="236" font-size="21" fill="#b9c8de">is confusing, slow or just feels wrong. Testing is where that habit becomes a skill: I use a product the</text>
+  <text class="sans" x="84" y="268" font-size="21" fill="#b9c8de">way a real person would, write down exactly what broke, and make it easy for a developer to fix.</text>
+  <g transform="translate(84,310)"><g style="animation: rise .7s ease-out 0.20s both">
+    <rect width="340" height="250" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><g stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="-17" y="-13" width="34" height="26" rx="4"/><path d="M-17 -4 h34 M-10 -8.5 h.1 M-4 -8.5 h.1"/></g></g>
+    <text class="sans" x="28" y="136" font-size="29" font-weight="800" fill="#e6eefb">Web Testing</text>
+    <text class="mono" x="28" y="164" font-size="15" fill="#FF7036">forms · checkout · browsers</text>
+    <text class="sans" x="28" y="200" font-size="18" fill="#8196b5">Click through real user flows and</text>
+    <text class="sans" x="28" y="226" font-size="18" fill="#8196b5">catch what breaks on the way.</text>
+  </g></g>
+  <g transform="translate(448,310)"><g style="animation: rise .7s ease-out 0.35s both">
+    <rect width="340" height="250" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><g stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M-16 -7 h30 l-8 -8 M16 7 h-30 l8 8"/></g></g>
+    <text class="sans" x="28" y="136" font-size="29" font-weight="800" fill="#e6eefb">API Testing</text>
+    <text class="mono" x="28" y="164" font-size="15" fill="#FF7036">requests · responses · assertions</text>
+    <text class="sans" x="28" y="200" font-size="18" fill="#8196b5">Send requests and check the data</text>
+    <text class="sans" x="28" y="226" font-size="18" fill="#8196b5">behind the screen is correct.</text>
+  </g></g>
+  <g transform="translate(812,310)"><g style="animation: rise .7s ease-out 0.50s both">
+    <rect width="340" height="250" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><g stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="-12" y="-13" width="24" height="30" rx="4"/><path d="M-5 -13 v-4 h10 v4 M-6 3 l4 4 l9 -10"/></g></g>
+    <text class="sans" x="28" y="136" font-size="29" font-weight="800" fill="#e6eefb">Manual Testing</text>
+    <text class="mono" x="28" y="164" font-size="15" fill="#FF7036">test cases · exploratory</text>
+    <text class="sans" x="28" y="200" font-size="18" fill="#8196b5">Write clear test cases, explore the</text>
+    <text class="sans" x="28" y="226" font-size="18" fill="#8196b5">app and report bugs clearly.</text>
+  </g></g>
+  <g transform="translate(1176,310)"><g style="animation: rise .7s ease-out 0.65s both">
+    <rect width="340" height="250" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="28" y="28" width="64" height="64" rx="16" fill="#1b2d48"/>
+    <g transform="translate(60,60)"><g stroke="#62aaff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13 -6 A14 14 0 1 0 14 4 M15 -17 V-6 H5"/></g></g>
+    <text class="sans" x="28" y="136" font-size="29" font-weight="800" fill="#e6eefb">Automated Testing</text>
+    <text class="mono" x="28" y="164" font-size="15" fill="#FF7036">playwright · repeatable checks</text>
+    <text class="sans" x="28" y="200" font-size="18" fill="#8196b5">Turn the repeat checks into scripts</text>
+    <text class="sans" x="28" y="226" font-size="18" fill="#8196b5">that run in a real browser.</text>
+  </g></g>
+  <text class="mono" x="84" y="620" font-size="17" fill="#8196b5"><tspan fill="#FF7036">Fun fact:</tspan> testers don't break the system. It was already broken, we just find it first.</text>
+
+</svg>

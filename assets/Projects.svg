@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-label="Practice projects: six planned test projects">
+  <style>
+    .mono { font-family: 'SFMono-Regular','JetBrains Mono',Consolas,'Courier New',monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    .live { animation: pulse 1.6s ease-in-out infinite; }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1600" height="720" rx="36" fill="#0e1829"/>
+  <rect x="1" y="1" width="1598" height="718" rx="36" fill="none" stroke="#2d4668" stroke-opacity=".6" stroke-width="2"/>
+  <text class="mono" x="84" y="84" font-size="20" fill="#FF7036" letter-spacing="5">PORTFOLIO</text>
+  <text class="sans" x="84" y="152" font-size="58" font-weight="800" fill="#e6eefb" letter-spacing="-1.5">Practice projects</text>
+  <g transform="translate(84,190)"><g style="animation: rise .7s ease-out 0.20s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">manual testing · jira</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">SauceDemo test cases</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">Login, cart and checkout on a demo shop,</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">as test cases with every bug I find.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <g transform="translate(569,190)"><g style="animation: rise .7s ease-out 0.32s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">postman</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">Restful-Booker API tests</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">A practice API tested with requests,</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">variables, assertions and failure cases.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <g transform="translate(1054,190)"><g style="animation: rise .7s ease-out 0.44s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">playwright</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">First Playwright suite</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">The same checkout checks, automated</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">to run in a browser every time.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <g transform="translate(84,424)"><g style="animation: rise .7s ease-out 0.56s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">manual testing · bug reports</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">Testing my own projects</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">A bug and usability review of my</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">Patient Fees System and portfolio site.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <g transform="translate(569,424)"><g style="animation: rise .7s ease-out 0.68s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">jira · manual testing</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">Bug report gallery</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">My best bug reports, with steps, expected</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">result, actual result and severity.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <g transform="translate(1054,424)"><g style="animation: rise .7s ease-out 0.80s both">
+    <rect width="461" height="210" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="42" font-size="15" fill="#FF7036">test design · documents</text>
+    <text class="sans" x="28" y="84" font-size="26" font-weight="800" fill="#e6eefb">Test plan templates</text>
+    <text class="sans" x="28" y="122" font-size="17" fill="#8196b5">A reusable test plan and regression</text>
+    <text class="sans" x="28" y="146" font-size="17" fill="#8196b5">checklist anyone can copy.</text>
+    <rect x="28" y="168" width="110" height="28" rx="14" fill="#61759a" fill-opacity="0" stroke="#61759a" stroke-width="1.6"/>
+    <text class="mono" x="83" y="187" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#8196b5">PLANNED</text>
+  </g></g>
+  <text class="mono" x="84" y="684" font-size="17" fill="#8196b5">real test work on public practice sites and on my own code · each card gets a repo link when it ships</text>
+
+</svg>
