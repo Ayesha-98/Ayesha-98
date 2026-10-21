@@ -29,8 +29,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF7036
 
+      # The snake step creates dist/ as root, so build the card in a temp
+      # folder and copy it in with sudo.
       - name: Build stats card
-        run: python3 .github/scripts/stats.py dist/stats.svg
+        run: |
+          python3 .github/scripts/stats.py "$RUNNER_TEMP/stats.svg"
+          sudo mkdir -p dist
+          sudo cp "$RUNNER_TEMP/stats.svg" dist/stats.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
