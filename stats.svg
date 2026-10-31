@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="570" viewBox="0 0 1600 570" role="img" aria-label="Ayesha Majid's GitHub stats">
+  <style>
+    .mono { font-family: 'SFMono-Regular','JetBrains Mono',Consolas,'Courier New',monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1600" height="570" rx="36" fill="#0e1829"/>
+  <rect x="1" y="1" width="1598" height="568" rx="36" fill="none" stroke="#2d4668" stroke-opacity=".6" stroke-width="2"/>
+  <text class="mono" x="84" y="84" font-size="20" fill="#FF7036" letter-spacing="5">ACTIVITY</text>
+  <text class="sans" x="84" y="152" font-size="58" font-weight="800" fill="#e6eefb" letter-spacing="-1.5">Ayesha Majid's GitHub Stats</text>
+  <g transform="translate(84,190)"><g style="animation: rise .7s ease-out 0.20s both">
+    <rect width="340" height="150" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="24" y="24" width="52" height="52" rx="14" fill="#1b2d48"/>
+    <g transform="translate(50,50)"><g stroke="#62aaff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M-14 -9 h10 l4 5 h14 v17 h-28 Z"/></g></g>
+    <text class="sans" x="24" y="118" font-size="42" font-weight="800" fill="#e6eefb">24</text>
+    <text class="mono" x="24" y="140" font-size="14" fill="#FF7036">public repos</text>
+  </g></g>
+  <g transform="translate(448,190)"><g style="animation: rise .7s ease-out 0.35s both">
+    <rect width="340" height="150" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="24" y="24" width="52" height="52" rx="14" fill="#1b2d48"/>
+    <g transform="translate(50,50)"><g stroke="#62aaff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="-5" r="6"/><path d="M-13 14 q0 -12 13 -12 q13 0 13 12"/></g></g>
+    <text class="sans" x="24" y="118" font-size="42" font-weight="800" fill="#e6eefb">1</text>
+    <text class="mono" x="24" y="140" font-size="14" fill="#FF7036">followers</text>
+  </g></g>
+  <g transform="translate(812,190)"><g style="animation: rise .7s ease-out 0.50s both">
+    <rect width="340" height="150" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="24" y="24" width="52" height="52" rx="14" fill="#1b2d48"/>
+    <g transform="translate(50,50)"><g stroke="#62aaff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -15 L4.4 -5 L15 -4 L7 3 L9.5 14 L0 8.5 L-9.5 14 L-7 3 L-15 -4 L-4.4 -5 Z"/></g></g>
+    <text class="sans" x="24" y="118" font-size="42" font-weight="800" fill="#e6eefb">0</text>
+    <text class="mono" x="24" y="140" font-size="14" fill="#FF7036">stars earned</text>
+  </g></g>
+  <g transform="translate(1176,190)"><g style="animation: rise .7s ease-out 0.65s both">
+    <rect width="340" height="150" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <rect x="24" y="24" width="52" height="52" rx="14" fill="#1b2d48"/>
+    <g transform="translate(50,50)"><g stroke="#62aaff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M-13 13 V3 M-4.5 13 V-6 M4.5 13 V0 M13 13 V-14"/></g></g>
+    <text class="sans" x="24" y="118" font-size="42" font-weight="800" fill="#e6eefb">73</text>
+    <text class="mono" x="24" y="140" font-size="14" fill="#FF7036">contributions · last year</text>
+  </g></g>
+  <g transform="translate(84,364)"><g style="animation: rise .7s ease-out .85s both">
+    <rect width="1432" height="150" rx="22" fill="#142238" stroke="#2d4668" stroke-width="2"/>
+    <text class="mono" x="28" y="38" font-size="15" fill="#FF7036">top languages · by public repo</text>
+    <clipPath id="barclip"><rect x="28" y="58" width="1376" height="18" rx="9"/></clipPath><g clip-path="url(#barclip)"><rect x="28" y="58" width="566.6" height="18" fill="#62aaff"/><rect x="594.6" y="58" width="242.8" height="18" fill="#FF7036"/><rect x="837.4000000000001" y="58" width="242.8" height="18" fill="#cfe6ff"/><rect x="1080.2" y="58" width="161.9" height="18" fill="#3d6fb3"/><rect x="1242.1000000000001" y="58" width="161.9" height="18" fill="#8196b5"/></g>
+    <circle cx="34" cy="116" r="6" fill="#62aaff"/><text class="mono" x="48" y="121" font-size="16" fill="#b9c8de">HTML 41%</text><circle cx="154" cy="116" r="6" fill="#FF7036"/><text class="mono" x="168" y="121" font-size="16" fill="#b9c8de">Astro 18%</text><circle cx="284" cy="116" r="6" fill="#cfe6ff"/><text class="mono" x="298" y="121" font-size="16" fill="#b9c8de">JavaScript 18%</text><circle cx="464" cy="116" r="6" fill="#3d6fb3"/><text class="mono" x="478" y="121" font-size="16" fill="#b9c8de">CSS 12%</text><circle cx="574" cy="116" r="6" fill="#8196b5"/><text class="mono" x="588" y="121" font-size="16" fill="#b9c8de">Dart 12%</text>
+  </g></g>
+  <text class="mono" x="84" y="548" font-size="16" fill="#8196b5">updated 2026-10-31 · refreshes daily · on GitHub since 2023</text>
+</svg>
